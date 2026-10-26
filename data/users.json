@@ -1,0 +1,72 @@
+{
+    "voyager_bd": {
+        "username": "voyager_bd",
+        "name": "Tanvir Ahmed",
+        "name_bn": "তানভীর আহমেদ",
+        "email": "tanvir@voyager.bd",
+        "phone": "+880 1712-345678",
+        "home_district": "Dhaka",
+        "bio": "Passionate explorer chasing sunsets, hill peaks, and coastal horizons across all 64 districts of Bangladesh.",
+        "travel_motto": "জীবন একটাই, বাংলাদেশটা ঘুরে দেখো!",
+        "avatar": "🧭",
+        "avatar_type": "emoji",
+        "joined_date": "2024-01-01",
+        "travel_style": "Adventure & Photography",
+        "created_at": "2026-10-26T18:08:49+00:00",
+        "updated_at": "2026-10-26T18:08:49+00:00"
+    },
+    "tanvir_explorer": {
+        "username": "tanvir_explorer",
+        "name": "Tanvir Ahmed",
+        "name_bn": "তানভীর আহমেদ",
+        "email": "tanvir@voyager.bd",
+        "phone": "+880 1712-345678",
+        "home_district": "Dhaka",
+        "bio": "Trekking across Bangladesh hills and rivers. 64 districts dream!",
+        "travel_motto": "বাংলার রূপ আমি দেখিয়াছি, তাই আমি পৃথিবীর রূপ খুঁজিতে যাই না!",
+        "avatar": "🧗",
+        "avatar_type": "emoji",
+        "joined_date": "2024-01-01",
+        "travel_style": "Hills & Heritage Wanderer",
+        "created_at": "2026-10-26T18:13:12+00:00",
+        "updated_at": "2026-10-26T18:13:12+00:00"
+    },
+    "zizahed202@gmail.com": {
+        "_id": {
+            "$oid": "6adf998dfcfe753d09059092"
+        },
+        "gmail": "zizahed202@gmail.com",
+        "name": "ZAHEDUL ISLAM",
+        "name_bn": "জি জাহেদ",
+        "phone": "+880 1712-345678",
+        "home_district": "Dhaka",
+        "bio": "Exploring all 64 districts and 50+ iconic spots across Bangladesh.",
+        "travel_motto": "জীবন একটাই, বাংলাদেশটা ঘুরে দেখো!",
+        "avatar": "📸",
+        "travel_style": "Hills, Haors & Coastal Photography",
+        "joined_date": "Oct 2026",
+        "created_at": "2026-10-26T18:18:53+00:00",
+        "updated_at": "2026-10-26T18:40:12+00:00",
+        "id": "6adf998dfcfe753d09059092",
+        "last_login": "2026-10-26T18:38:32+00:00",
+        "password_hash": "$2y$12$LJ\/opsgCKlWqAVx\/mNf07uO\/O.4AhU3EkdrCcsLE6bH1uCxF01BKO",
+        "username": "Zahedul",
+        "email": ""
+    },
+    "explorer_1793039402@gmail.com": {
+        "gmail": "explorer_1793039402@gmail.com",
+        "password_hash": "$2y$12$1j4GXgLS6rJVFeKl5xsJBed5elAvpuj\/4pDiWJv0T4z8rKcgQQ1Ye",
+        "name": "Traveler Shafi",
+        "name_bn": "",
+        "phone": "+880 1712-345678",
+        "home_district": "Sylhet",
+        "bio": "Ready to conquer every peak in Bangladesh.",
+        "travel_motto": "জীবন একটাই, বাংলাদেশটা ঘুরে দেখো!",
+        "avatar": "🧗",
+        "travel_style": "Mountain & Trekking Explorer",
+        "joined_date": "Oct 2026",
+        "created_at": "2026-10-26T18:30:02+00:00",
+        "updated_at": "2026-10-26T18:30:02+00:00",
+        "last_login": "2026-10-26T18:30:02+00:00"
+    }
+}

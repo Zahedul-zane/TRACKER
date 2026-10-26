@@ -1,0 +1,61 @@
+{
+    "voyager_bd": {
+        "spot_1": {
+            "created_at": "2026-10-26T18:13:12+00:00",
+            "username": "voyager_bd",
+            "spot_id": "spot_1",
+            "status": "visited",
+            "rating": 5,
+            "visit_date": "2026-10-26",
+            "notes": "",
+            "photos": [],
+            "updated_at": "2026-10-26T18:13:12+00:00"
+        },
+        "spot_9": {
+            "created_at": "2026-10-26T18:13:12+00:00",
+            "username": "voyager_bd",
+            "spot_id": "spot_9",
+            "status": "visited",
+            "rating": 5,
+            "visit_date": "2024-04-20",
+            "notes": "Camped on Sajek Valley helipad and watched sea of clouds in early morning.",
+            "photos": [],
+            "updated_at": "2026-10-26T18:13:12+00:00"
+        }
+    },
+    "zizahed202@gmail.com": {
+        "spot_1": {
+            "created_at": "2026-10-26T18:22:24+00:00",
+            "gmail": "zizahed202@gmail.com",
+            "spot_id": "spot_1",
+            "status": "visited",
+            "rating": 5,
+            "visit_date": "2024-02-16",
+            "notes": "Touched live coral at Chera Dwip! Crystal blue water.",
+            "photos": [],
+            "updated_at": "2026-10-26T18:22:24+00:00"
+        },
+        "spot_14": {
+            "created_at": "2026-10-26T18:40:31+00:00",
+            "gmail": "zizahed202@gmail.com",
+            "spot_id": "spot_14",
+            "status": "visited",
+            "rating": 5,
+            "visit_date": "2026-10-26",
+            "notes": "",
+            "photos": [],
+            "updated_at": "2026-10-26T18:40:31+00:00"
+        },
+        "spot_13": {
+            "created_at": "2026-10-26T18:40:46+00:00",
+            "gmail": "zizahed202@gmail.com",
+            "spot_id": "spot_13",
+            "status": "visited",
+            "rating": 5,
+            "visit_date": "2026-10-26",
+            "notes": "",
+            "photos": [],
+            "updated_at": "2026-10-26T18:40:54+00:00"
+        }
+    }
+}
